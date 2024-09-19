@@ -1,0 +1,22 @@
+Terms of Service for RedditNarrator
+Effective Date: 19-09-2024
+
+Welcome to RedditNarrator! These Terms of Service ("Terms") govern your use of our software, which converts Reddit stories into videos. By using RedditNarrator, you agree to these Terms.
+
+Use of the App
+RedditNarrator is designed for personal use. The app processes publicly available Reddit stories to generate video content, and it runs locally on your device. Users are responsible for ensuring that they have the necessary rights to use the content from Reddit in accordance with Reddit's own terms and conditions.
+
+Intellectual Property
+The software, RedditNarrator, and its components are owned by [Your Name/Company]. You may not distribute, modify, or sell any part of the software without express permission.
+
+Limitation of Liability
+RedditNarrator is provided "as-is" without any warranties, either express or implied. We are not responsible for any issues, data loss, or damages that may arise from using the app.
+
+Privacy
+RedditNarrator does not collect or store any user data. For details on data handling, refer to our Privacy Policy.
+
+Changes to the Terms
+We reserve the right to update these Terms at any time. Updates will be made available on the official app website.
+
+Contact
+If you have any questions about these Terms, please contact us at redditnarrator2024@gmail.com.
